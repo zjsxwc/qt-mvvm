@@ -26,8 +26,8 @@ Main features of the framework are:
 ## Requirements
 
 + C++-17
-+ CMake 3.14
-+ Qt 5.12
++ CMake 3.14 yay -S cmake
++ Qt 5.12  yay -S qt5-base
 
 ## Installation instructions
 
